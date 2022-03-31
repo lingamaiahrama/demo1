@@ -1,0 +1,264 @@
+                                            Myportofolio
+Create html files
+Myportfolio.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+    <div style="background-image: url('../images/introduction.jpg'); 
+  background-size: cover; height: 600px;">
+  <span>Mr.Ramu</span>
+  <div align="right">
+    <a href="myportfolio.html">PROFILE</a>
+    <a href="About.html">ABOUT</a>
+    <a href="Skills.html">SKILLS</a>
+    <a href="Education.html">EDUCATION</a>
+    <a href="Contact.html">CONTACT</a>
+</div>
+    <div align="center"><img src="../images/honey.jpg" width="100px" height="100px" />
+                <p>c.Ramu</p>
+                <p >Java Full STack Developer</p>
+                <div class="abc">
+                <a href="type">Hire Me</a>
+                <a href="type">Download CV</a></div>
+  </div>
+ </body>
+</html>
+
+About.html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+	<div style="background-image: url('../images/introduction.jpg'); 
+  background-size: cover; height: 600px;">
+  <span>Mr.Ramu</span>
+   <div align="right">
+   	<a href="myportfolio.html">PROFILE</a>
+    <a href="About.html">ABOUT</a>
+    <a href="Skills.html">SKILLS</a>
+    <a href="Education.html">EDUCATION</a>
+    <a href="Contact.html">CONTACT</a>
+    </div>
+    <table align="left">
+    	<thead>
+    		<tr>
+    			<th>About Me</th>
+    			<th>Basic Information</th>
+    		</tr>
+    	</thead>
+     <tr>
+     <td><p>From a young age, I’ve always had a sense of motivation and passion driving me forward.</p> 
+     <p>Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal and professional level.</p>
+     <p>Lover of innovation and everything related to generate new knowledge.Face problems with smile and solve them as soon as possible. </p>
+     <p>Very calculated about the time I spend and work I do.</p>
+     <p>To learn more about me, keep exploring my site or reach out directly.</p></td>            
+     <td>
+                        
+      <p>Date of Birth : feb 19 1999</p>
+                       
+                            
+       <p>Email : ramchinna@27gmail.com</p>
+                        
+                    
+       <p>Mobile No : 9550472687</p>
+       <p>Address : Rskondapuram,kadapa dist, Andhra Pradesh ,516444</p>
+                  <p>Language : Telugu,Hindhi,English</p>
+</td>
+</tr>
+</table>
+  </div>                  
+</body>
+</html>
+Education.html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+	<div style="background-image: url('../images/introduction.jpg'); 
+  background-size: cover; height: 600px;">
+  <span>Mr.Ramu</span>
+  <div align="right">
+  	<a href="myportfolio.html">PROFILE</a>
+    <a href="About.html">ABOUT</a>
+    <a href="Skills.html">SKILLS</a>
+    <a href="Education.html">EDUCATION</a>
+    <a href="Contact.html">CONTACT</a>
+</div>
+<table align="center">
+   <tr><th>Education</th></tr>
+<tr>
+            
+     <td><p>2017-2021</p>
+         <p>Bachelor Degree</p>
+     </td>
+    <td><p>Bachelor Technology</p>
+        <p> Clg Chaitanyabharathi institute of  technology   .</p>
+        <p>Completed B-tech in Electrical and Electronics Engineering with 70% .</p>
+   </td>
+</tr>
+ <tr>
+     <td><p>2015-2017</p>
+       <p>Secondary education</p>
+   </td>
+   <td><p>Inter MPC</p>
+   	   <p>Sri masters jr College</p>
+       <p>Completed secondary education with 83% aggregate.</p>
+   </td>
+</tr>
+<tr>
+    <td><p>2015</p>
+     <p>Primary education</p>
+ </td>
+ <td><p>ZP high School</p>
+     <p>Completed with 93% aggregate.</p>
+ </td>
+</tr>
+</table>
+</body>
+</html>
+
+Skills.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="style2.css”>
+</head>
+<body>
+  <div style="background-image: url('../images/introduction.jpg'); 
+  background-size: cover; height: 600px;">
+  <span>Mr.Ramu</span>
+  <div align="right">
+    <a href="myportfolio.html">PROFILE</a>
+    <a href="About.html">ABOUT</a>
+    <a href="Skills.html">SKILLS</a>
+    <a href="Education.html">EDUCATION</a>
+    <a href="Contact.html">CONTACT</a>
+  </div>
+  <table align="center">
+    <tr>
+      <td>Skills</td>
+    </tr>
+     <tr>
+      <td>Java</td>
+      <td>85% </td>
+    </tr>
+    <tr>
+      <td>HTML,CSS,JS</td>
+       <td>80% </td>
+     </tr>
+     <tr>
+      <td>RDBMS</td>
+      <td>70% </td>
+    </tr>
+    <tr>
+    <td>Spring Framework</td>
+    <td>70% </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+Contact.html
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+	<div style="background-image: url('../images/introduction.jpg'); 
+  background-size: cover; height: 600px;">
+  <span>Mr.Ramu</span>
+  <div align="right">
+  	<a href="myportfolio.html">PROFILE</a>
+    <a href="About.html">ABOUT</a>
+    <a href="Skills.html">SKILLS</a>
+    <a href="Education.html">EDUCATION</a>
+    <a href="Contact.html">CONTACT</a>
+
+  <table align="center">
+    <tr>
+      <th>Contact me</th>
+    </tr>
+    <tr>
+      <td><p>name</p>
+      <p>subject</p>
+      <p>Email</p>
+      <p>your answer</p>
+    </td>
+   <td><p>Feel free to contact me </p>
+    <p><input type="text" name=""></p>
+    <p><input type="text" name=""></p>
+    <p><input type="text" name=""></p>
+    <p><input type="text" name=""></p>
+    <p><input type="Submit" name=""></p>
+</td>
+<td><p>my contact details</p>
+    <p>Phone</p>
+    <p>+91 9550472687</p>
+    <p>Email</p>
+    <p>ramchinna@27gmail.com</p>
+ </td>
+</tr>
+</table>
+</body>
+</html>
+
+Create css files
+Style1.css
+       a
+         {
+           text-align: right;
+           padding: 15px; 
+           text-decoration: none;
+        }
+      .abc  a
+        {
+            color: white;
+            text-decoration:none;
+            margin: 25px;
+            padding: 5px 20px;
+            background: blueviolet;
+            border-radius:8px;
+        }
+        span
+        {
+
+            padding: 25px;
+        }
+       img 
+       {
+        margin-top: 200px;
+        border-radius: 50px;
+       }
+
+Style2.css
+
+        a
+        {
+           text-align: right;
+           padding: 15px; 
+           text-decoration: none;
+        }
+        span
+        {
+            padding: 15px;
+        }
+       table
+       {
+        margin-top: 100px;
+       }
